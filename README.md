@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm João Guilherme Guimarães e Silva 👋
 
-<!--
-**Jotinha7/Jotinha7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student | Competitive Programmer**
 
-Here are some ideas to get you started:
+📍 Goiânia, Brazil  
+📧 [joaoguilherme.gsilva.pro@gmail.com](mailto:joaoguilherme.gsilva.pro@gmail.com) | [LinkedIn](https://www.linkedin.com/in/joão-guilherme-guimarães-e-silva/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 About Me
+Passionate about algorithms, competitive programming, and problem-solving. Always seeking new challenges and opportunities to learn and grow.
+
+---
+
+### 🎓 Education
+- **B.Sc. in Computer Science**, PUC-GO, Brazil *(2021 – 2026)*
+
+---
+
+### 🏆 Achievements
+- 🥈 **Silver Medalist** - Brazilian Informatics Olympiad (OBI), Senior Category *(2022)*
+- 🌎 **Finalist** - ICPC Latin America Championship *(2024-2025)*
+
+---
+
+### ⚙️ Skills
+- **Languages:** C++, C
+- **Interests:** Algorithms, Data Structures, Optimization, Logic Reasoning
+
+---
