@@ -19,7 +19,7 @@ Passionate about algorithms, competitive programming, and problem-solving. Alway
 
 ### 🏆 Achievements
 - 🥈 **Silver Medalist** - Brazilian Informatics Olympiad (OBI), Senior Category *(2022)*
-- 🌎 **Finalist** - ICPC Latin America Championship *(2024-2025)*
+- 🌎 **Finalist** - ICPC Latin America Championship *(2024)*
 
 ---
 
