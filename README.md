@@ -24,7 +24,7 @@ Passionate about algorithms, competitive programming, and problem-solving. Alway
 ---
 
 ### ⚙️ Skills
-- **Languages:** C++, C
+- **Languages:** C, C++
 - **Interests:** Algorithms, Data Structures, Optimization, Logic Reasoning
 
 ---
